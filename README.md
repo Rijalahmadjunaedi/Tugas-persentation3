@@ -1,4 +1,9 @@
-Tugas Bahasa Pemrograman 3
-Nama : Rijal ahmad junaedi
-NPM : 14190030
-Kelas : C
+# MVC-Native
+
+# Tugas Bahasa Pemrograman 3
+
+NPM: 14197054
+<br></br>
+Nama: Muhamad Sahal
+<br></br>
+Kelas: C
